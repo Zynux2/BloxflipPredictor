@@ -19,3 +19,12 @@ The most efficient and safe bloxflip predictor out there, crash, mines, towers, 
 
 • Undetected
 
+# How to launch?
+
+• Install the file
+
+• Launch the .exe
+
+• Loading could take up to 30 seconds
+
+• And you're done, enjoy!
