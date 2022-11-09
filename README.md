@@ -17,6 +17,10 @@ The most efficient and safe bloxflip predictor out there, crash, mines, towers, 
 
 • Fully customizable
 
+• No python required
+
+• Simple download
+
 • Undetected
 
 # How to launch?
@@ -28,4 +32,3 @@ The most efficient and safe bloxflip predictor out there, crash, mines, towers, 
 • Loading could take up to 30 seconds
 
 • And you're done, enjoy!
-
