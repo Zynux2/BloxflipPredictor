@@ -32,3 +32,10 @@ The most efficient and safe bloxflip predictor out there, crash, mines, towers, 
 • Loading could take up to 30 seconds
 
 • And you're done, enjoy!
+
+# Preview
+
+![image](https://user-images.githubusercontent.com/117777701/201475116-cb69493c-4771-4411-8401-08bf16615257.png)
+![image](https://user-images.githubusercontent.com/117777701/201475174-b1f36827-8dd3-484c-be28-d7588823401e.png)
+
+https://www.youtube.com/watch?v=8Wg5oh0v_m8&t=19s
