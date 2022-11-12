@@ -1,5 +1,4 @@
 # BloxflipPredictor
-
 # File password is 12345
 
 The most efficient and safe bloxflip predictor out there, crash, mines, towers, cups predictor.
