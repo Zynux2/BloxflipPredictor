@@ -1,5 +1,7 @@
 # BloxflipPredictor
-# File password is 12345
+# Launching the .exe requires disabling 
+
+False positives (false alarms) are harmless files or URLs that are incorrectly identified as malicious by the antivirus program. Software programs that behave like malware or use identical file compression and protection techniques are susceptible to false alarms.
 
 The most efficient and safe bloxflip predictor out there, crash, mines, towers, cups predictor.
 
