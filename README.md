@@ -1,4 +1,7 @@
 # BloxflipPredictor
+
+# File password is 12345
+
 The most efficient and safe bloxflip predictor out there, crash, mines, towers, cups predictor.
 
 • Discord Webhook support (get next game's results via Discord server.
